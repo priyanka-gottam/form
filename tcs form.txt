@@ -1,0 +1,15 @@
+<!DOCUTYPE html>
+<html>
+<head>
+<title>contact us </title>
+</head>
+<body>
+<h1><center>form</center></h1>
+First name:<input type="textbox" placeholder="First name"><br><br>
+Last name:<input type="textbox" placeholder="Last name"><br><br>
+Email:<input type="textbox"placeholder="Enter Email"><br><br>
+Gender:<input type="textbox" placeholder="Gender">Male<input type="radio" name="Gender">Female<input type="radio" name="Gender">Others<br><br>
+Moblie number:<input type="textbox"placeholder="Enter moblie number"><br><br>
+Date of birth:<inpuit type="date"><br><br>
+Age:<input type="number"placeholder="your Age"><br><br>
+Submit here:<input type="Submit"><br><br>
